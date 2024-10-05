@@ -2,7 +2,7 @@
 $servername = "localhost";  
 $username = "root";         
 $password = "";             
-$dbname = "sheni_iwt";      
+$dbname = "iwt_online_finess";      
 
 // Create connection
 $con = new mysqli($servername, $username, $password, $dbname);

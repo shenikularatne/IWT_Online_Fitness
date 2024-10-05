@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "userprofile";
+$dbname = "iwt_online_finess";
 
 // to Create connection
 $con = new mysqli($servername, $username, $password, $dbname);
