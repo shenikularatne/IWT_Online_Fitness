@@ -2,7 +2,7 @@
 $servername = "localhost";  
 $username = "root";         
 $password = "";             
-$dbname = "iwt_online_finess";      
+$dbname = "iwt_online_fitness";      
 
 // Create connection
 $con = new mysqli($servername, $username, $password, $dbname);
